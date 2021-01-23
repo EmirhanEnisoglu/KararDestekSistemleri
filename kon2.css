@@ -1,0 +1,9 @@
+.btn1 {
+	margin-left:700px;
+	border:solid;
+	width:120px;
+	height:40px;
+	margin-top:200px;
+	display:flex;
+	position:absolute;
+}
